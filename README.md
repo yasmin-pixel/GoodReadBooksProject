@@ -10,12 +10,20 @@ This project serves as a portfolio piece demonstrating skills in data analysis a
 
 The project aims to create insightful visualizations
 
-* **Distribution of Books by Genre:** A bar chart or pie chart showing Books with most occurrences (using Matplotlib & Seaborn).
-* **Top 10 most-rated books:** A bar chart highlighting Top 10 most-rated books
-* **Distribution of Average Ratings** A box plot comparing the Distribution of Average Ratings (using Matplotlib & Seaborn).
-* **Number of Books Published Over Time** This line graph shows the trend of book publications over time, which can reveal changes in publishing patterns and potentially identify popular periods for specific genres. (using Matplotlib & Plotly).
-* **Top 10 Books with Most Text Reviews:** This bar chart highlights the books that have received the most text reviews, indicating which books have generated the most discussion and user engagement. (using Matplotlib & Plotly).
+* ** Top 10 Most Occuring Books: ** A bar chart highlighting Top 10 most- Occuring Books
+ ![image](https://github.com/user-attachments/assets/b0306965-1a52-4fc4-b2f4-92e66c9ffc27)
 
+* **Top 10 most-rated books:** A bar chart highlighting Top 10 most-rated books
+![image](https://github.com/user-attachments/assets/639aa6d9-a2ef-4bea-b1d3-2da0eb3554c2)
+
+* **Distribution of Average Ratings** A box plot comparing the Distribution of Average Ratings (using Matplotlib & Seaborn).
+  ![image](https://github.com/user-attachments/assets/7898f447-bb76-4ae9-b49e-59bb4f49393c)
+
+* **Number of Books Published Over Time** This line graph shows the trend of book publications over time, which can reveal changes in publishing patterns and potentially identify popular periods for specific genres. (using Matplotlib & Plotly).
+  ![image](https://github.com/user-attachments/assets/63eaed48-ef44-4e03-8fb8-854719f7822d)
+
+* **Top 10 Books with Most Text Reviews:** This bar chart highlights the books that have received the most text reviews, indicating which books have generated the most discussion and user engagement. (using Matplotlib & Plotly).
+  ![image](https://github.com/user-attachments/assets/e6bf875f-398b-4f90-8162-9570becfaf44)
 
 ## Source
 
