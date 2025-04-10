@@ -19,7 +19,7 @@ The project aims to create insightful visualizations
 
 ## Source
 
-Data is sourced from the `cleanbooks.csv` file provided by the user.
+Data is sourced from the `cleanedbooks.csv` file provided by the user.
 
 
 ## Key Variables
@@ -38,7 +38,7 @@ Data is sourced from the `cleanbooks.csv` file provided by the user.
 
 The analysis was conducted using Python within a Googel Colab Notebook environment. Key steps included:
 
-1.  **Data Loading & Cleaning:** Importing the `cleanbooks.csv` dataset using Pandas, handling missing values, and ensuring data consistency.
+1.  **Data Loading & Cleaning:** Importing the `cleanedbooks.csv` dataset using Pandas, handling missing values, and ensuring data consistency.
 2.  **Exploratory Data Analysis (EDA):** Examining the distribution of key variables, identifying potential outliers, and looking for initial patterns and relationships using Pandas.
 3.  **Visualization:** Creating insightful plots using Matplotlib, Seaborn, and/or Plotly to understand the data and communicate findings.
 
@@ -82,7 +82,7 @@ Implication: Use this information to feature popular and highly-discussed books 
 
 ## Limitations & Future Work
 
-* **Data Scope:** The analysis is limited to the data available in the `cleanbooks.csv` file.
+* **Data Scope:** The analysis is limited to the data available in the `cleanedbooks.csv` file.
 * **Potential Biases:** The dataset might reflect biases present in the data source which is Goodreads.
 * **Further Exploration:** Future work could involve:
     * Incorporating additional book-related datasets.
