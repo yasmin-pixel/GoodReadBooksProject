@@ -1,12 +1,80 @@
-# Goodreads Book Data Analysis 📚
+# 📚 Goodreads Book Analysis Project
 
-## Overview
+Welcome to my final project for the data analytics bootcamp! This project demonstrates my skills in data analysis, visualization, and storytelling through data. I utilized both **Tableau** and **Google Colab** (Python) to explore, clean, and visualize a dataset from Goodreads, showcasing trends and insights in reader preferences and book performance.
 
-This repository contains a data analysis project focused on exploring a dataset of books, sourced from Goodreads. The goal of this project is to uncover interesting patterns, trends, and insights within the book data. This could involve analyzing authors and publication.
+---
+# Project Scenario
 
-This project serves as a portfolio piece demonstrating skills in data analysis and visualization using Python. The complete analysis code, performed within a Google colabs Notebook environment, is included in this repository.
+I'm a data analyst at a book recommendation platform, working with a Goodreads dataset to:
 
-## Key Visualisations 
+- Understand reader preferences 
+
+- Analyze trends 
+
+- Improve recommendation systems
+
+## 🚀 Key Skills Used
+
+- **Python Programming**
+- **Pandas** for data manipulation
+- **NumPy** for numerical operations
+- **Matplotlib** for visualizations
+- **Tableau** for interactive dashboards
+- **Data Cleaning** and preprocessing
+- **Exploratory Data Analysis (EDA)**
+- **Data Storytelling** and presentation
+
+---
+
+## 🧠 Project Overview
+
+The project is based on a dataset of books from [Goodreads](https://www.goodreads.com/). Using the `cleanedbook.csv` dataset, I conducted a comprehensive analysis using Python in Google Colab and created a dynamic Tableau dashboard to visualize key trends and metrics.
+
+---
+
+## 🔍 Objectives
+
+- Analyze top-rated books by genre, author, and average ratings
+- Understand distribution patterns in book ratings, page counts, and review volumes
+- Visualize correlations between features like rating and number of reviews
+- Create an interactive dashboard for dynamic data exploration
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool           | Purpose                                 |
+|----------------|------------------------------------------|
+| **Python**     | Data wrangling and analysis              |
+| **Pandas**     | Data manipulation                        |
+| **NumPy**      | Numerical computation                    |
+| **Matplotlib** | Static visualizations                    |
+| **Tableau**    | Interactive data visualization dashboard |
+
+---
+
+## 📁 Files in This Repository
+
+- `cleanedbook.csv` — Preprocessed book dataset used in both projects
+- `GoodReadBook.ipynb` — Python notebook (Google Colab) containing data cleaning, EDA, and visualizations
+- `finalprojectGoodreadTableau.twbx` — Tableau workbook with interactive dashboard
+- `README.md` — Overview of the project (this file)
+
+---
+
+## 📊 Tableau Dashboard
+
+The Tableau dashboard provides an intuitive way to explore:
+
+- Top 10 books by rating and review count
+- Author analysis by number of books and average rating
+- Book popularity trends
+
+📎 **To view the dashboard**, open `finalprojectGoodreadTableau.twbx` using Tableau Desktop or Tableau Public.
+
+![image](https://github.com/user-attachments/assets/fd23a5c8-5684-49c9-87c1-d41fa822f441)
+
+## Key Visualisations using Google Colabs 
 
 The project aims to create insightful visualizations
 
@@ -33,19 +101,6 @@ The project aims to create insightful visualizations
 ## Source
 
 Data is sourced from the `cleanedbooks.csv` file provided by the user.
-
-
-## Key Variables
-
-* Title
-* Author
-* Genre
-* Publication Year
-* Average Rating
-* Number of Ratings
-* Number of Reviews
-* ISBN
-* Publisher
 
 ## Methodology & Tools
 
